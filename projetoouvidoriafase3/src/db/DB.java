@@ -30,5 +30,5 @@ public class DB {
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
-	}
+	} //adicionando comentario de exemplo
 }
